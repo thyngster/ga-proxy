@@ -14,7 +14,7 @@ class gaProxy {
     private $anonymizeIp = false;
 
     // Only change this if you want to send the data to a different Property than the one defined on the hit
-    private $propertyId = 'UA-286304-7';
+    // private $propertyId = 'UA-123123-123';
 
     // Set the cookie domain name. Use a leading dot, if not set, the root domain will be calculated
     // private $cookieDomain = '.yourdomain.com';
